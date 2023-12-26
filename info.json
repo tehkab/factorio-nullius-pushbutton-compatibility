@@ -1,0 +1,12 @@
+{
+    "name": "nullius-pushbutton-compatibility",
+    "version": "0.0.1",
+    "title": "Nullius Pushbutton Compatibility",
+    "author": "kabby",
+    "description": "Adds justarandomgeek's Pushbutton mod into the Nullius technology tree and associated recipe",
+    "factorio_version": "1.1",
+    "dependencies": [
+        "nullius >= 1.8.2",
+        "pushbutton >= 1.1.1"
+    ]
+}
